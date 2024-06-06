@@ -5,7 +5,7 @@ PokeFolio is a React-based web application designed to showcase a gallery of Pok
 ## Features
 
 - List of Pokémon: Browse through a collection of Pokémon fetched from the PokeAPI.
-- Pokémon Details: View detailed information about each Pokémon, including name, image, height, weight, and types.
+- Pokémon Details: View detailed information about each Pokémon, including name, image, height, weight, and type.
 - Pagination: Navigate through the Pokémon collection with pagination buttons.
 - Responsive Design: The application is designed to work seamlessly across different screen sizes.
 
@@ -56,7 +56,7 @@ Contributions are welcome! If you'd like to contribute to PokeFolio, please foll
 
 1. Fork the repository.
 2. Create a new branch for your feature or bug fix: `git checkout -b feature-name`.
-3. Make your changes and commit them: `git commit -m 'Add new feature'`.
+3. Make and commit your changes: `git commit -m 'Add new feature'`.
 4. Push to the branch: `git push origin feature-name`.
 5. Submit a pull request.
 
