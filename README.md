@@ -67,4 +67,3 @@ This project is maintained by [Rajana Vara Rahul](https://github.com/rajanarahul
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-```
