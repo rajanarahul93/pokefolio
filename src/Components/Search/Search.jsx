@@ -1,5 +1,4 @@
-import React from 'react';
-import useDebounce from '../../hooks/UseDebounce';
+import useDebounce from '../../hooks/useDebounce';
 
 function Search({ updateSearchTerm }) {
     const debounceCallBack = useDebounce((e) => updateSearchTerm(e.target.value));
